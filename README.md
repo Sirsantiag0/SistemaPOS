@@ -8,5 +8,4 @@ que tenga un número reducido de productos, aunque se pueden agregar todos los q
 
 
 El sistema POS sencillo desarrollado en Python genera factura por registro, pero no las procesa después, 
-no genera archivos independientes ni imprimibles. Si te ves en la necesidad de utilizar este software en un ambiente real, 
-tendrás que copiar y pegar manualmente cada que vez se genere el registro de las compras de cada cliente.
+no genera archivos independientes ni imprimibles.
